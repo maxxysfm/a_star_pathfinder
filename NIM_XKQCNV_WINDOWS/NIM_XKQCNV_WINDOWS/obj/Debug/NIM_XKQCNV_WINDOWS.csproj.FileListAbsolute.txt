@@ -1,0 +1,12 @@
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\bin\Debug\NIM_XKQCNV_WINDOWS.exe.config
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\bin\Debug\NIM_XKQCNV_WINDOWS.exe
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\bin\Debug\NIM_XKQCNV_WINDOWS.pdb
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.csprojResolveAssemblyReference.cache
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.Game.resources
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.Menu.resources
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.Properties.Resources.resources
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.SettingsGame.resources
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.csproj.GenerateResource.Cache
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.exe
+C:\Users\Attila\source\repos\NIM_XKQCNV_WINDOWS\NIM_XKQCNV_WINDOWS\obj\Debug\NIM_XKQCNV_WINDOWS.pdb
